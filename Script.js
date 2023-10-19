@@ -12,4 +12,4 @@
             console.log ("There'll be no more" + word + "hanging on the wall");
         }
     }
-     
+      
